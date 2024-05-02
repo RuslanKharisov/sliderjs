@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Ramabhadra;
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/Ramabhadra-Regular.ttf");
+}
+@font-face {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: normal;
+  src: url("../fonts/Poppins-Medium.ttf");
+}
+@font-face {
+  font-family: Poppins;
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/Poppins-Light.ttf");
+}
